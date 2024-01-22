@@ -1,4 +1,1 @@
-# CODSOFT
-This is a repo for my Codsoft Project.
-Thank You !
-Visit Again !
+This is a repository for my Python GUI Projects using the tkinter () module. Do check-in for any other projects.
